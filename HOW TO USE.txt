@@ -1,3 +1,8 @@
+TUTORIAL :
+
+==[SEBELUM BISA DIGUNAKAN, JALANKAN SETUPNYA KEMUDIAN INSTALL]==
+===== [BEFORE YOU CAN USE IT, RUN THE SETUP THEN INSTALL] ======
+
 How To Use :
 1. Enter the keyboard key you want in the fill box under "Enter Your Key Keyboard". Example: space, return, a, b, c, etc.
 2. Then click the Confrim Key button to confirm the key you entered. (A notification will appear)
@@ -13,6 +18,11 @@ Cara Menggunakan :
 NOTE : {AutoKeyboard.exe in AutoKeyboard folder}
 CATATAN : {AutoKeyboard.exe ada di dalam AutoKeyboard folder}
 
+Terima Kasih telah mendownload tools ini, mohon maaf jika anda bingung menggunakannya dan masih ad bug
+karena aplikasi ini masih tahap pembuatan.
+
+Thank you for downloading this tool, sorry if you are confused using it and still ad bugs
+because this application is still being made.
 
 ~ AUTO KEYBOARD PRE - ALPHA ~
 ~~~ CREATED BY KRESMINOR ~~~
