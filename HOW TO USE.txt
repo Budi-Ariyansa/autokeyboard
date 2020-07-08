@@ -1,0 +1,9 @@
+How To Use :
+1. Masukkan Key keyboard yang anda inginkan di kotak pengisian dibawah "Enter Your Key Keyboard". Contoh : space, a, b, c, dll.
+2. Kemudian klik tombol Confrim Key untuk konfirmasi key yang anda masukkan. (Akan muncul notifikasi)
+3. Setelah itu anda bisa langsung tekan tombol On (akan muncul notif On) dan jika sudah On, background status akan menjadi warna hijau.
+4. Untuk Mematikan autonya dengan menggunakan tombol ` di keyboard anda dan jika sudah off akan ad notif dan background status akan berwarna merah lagi.
+
+
+~ AUTO KEYBOARD PRE - ALPHA ~
+~~~ CREATED BY KRESMINOR ~~~
