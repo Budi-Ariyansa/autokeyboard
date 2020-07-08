@@ -1,8 +1,17 @@
 How To Use :
+1. Enter the keyboard key you want in the fill box under "Enter Your Key Keyboard". Example: space, return, a, b, c, etc.
+2. Then click the Confrim Key button to confirm the key you entered. (A notification will appear)
+3. After that you can immediately press the On button (the notification will appear On) and if it is On, the status background will be green.
+4. To turn off the automaton by using the `button on your keyboard and if it is off it will be notified and the background status will be red again.
+
+Cara Menggunakan : 
 1. Masukkan Key keyboard yang anda inginkan di kotak pengisian dibawah "Enter Your Key Keyboard". Contoh : space, a, b, c, dll.
 2. Kemudian klik tombol Confrim Key untuk konfirmasi key yang anda masukkan. (Akan muncul notifikasi)
 3. Setelah itu anda bisa langsung tekan tombol On (akan muncul notif On) dan jika sudah On, background status akan menjadi warna hijau.
 4. Untuk Mematikan autonya dengan menggunakan tombol ` di keyboard anda dan jika sudah off akan ad notif dan background status akan berwarna merah lagi.
+
+NOTE : {AutoKeyboard.exe in AutoKeyboard folder}
+CATATAN : {AutoKeyboard.exe ada di dalam AutoKeyboard folder}
 
 
 ~ AUTO KEYBOARD PRE - ALPHA ~
